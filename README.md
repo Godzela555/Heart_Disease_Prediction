@@ -1,7 +1,6 @@
-# Heart_Disease_Prediction
+# 🫀 Heart Disease Risk Prediction
 End-to-end Machine Learning pipeline for predicting heart disease risk using clinical data, built with Python, XGBoost, and Random Forest.
 
-# 🫀 Heart Disease Risk Prediction
 
 ## 📌 Overview
 This repository contains a machine learning project designed to predict the likelihood of a patient developing heart disease based on clinical parameters. The project explores data preprocessing, exploratory data analysis (EDA), and compares the performance of multiple classification algorithms to identify the most accurate predictive approach for healthcare applications.
